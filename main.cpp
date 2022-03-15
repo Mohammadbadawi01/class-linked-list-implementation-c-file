@@ -27,6 +27,7 @@ int main()
 	}
 	generalLinked.print();
 	cout << "\n";
+	
 
 	Task* p = generalLinked.nextTask;
 	while (p!=NULL) {
